@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  subscribable_type: MyString
+  subscribable_id: 1
+  subscriber_type: MyString
+  subscriber_id: 1
+  email: MyString
+
+two:
+  subscribable_type: MyString
+  subscribable_id: 1
+  subscriber_type: MyString
+  subscriber_id: 1
+  email: MyString

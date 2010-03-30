@@ -1,0 +1,5 @@
+DEPRECATION WARNING: Please update config/database.yml to use 'database' instead of 'dbfile'. (called from parse_sqlite_config! at /usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/sqlite_adapter.rb:35)
+  [4;36;1mSQL (4.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
